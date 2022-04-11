@@ -1,17 +1,33 @@
 # config
 
-chere -i -t mintty
-cygwin
-80
-20
+cmd
+110
+25
+font 18 consolas
 
 powershell
 100
 20
 
-cygwin 3.3.3-1
+powershell
+130
+25
 
-flux 4050k
+cygwin 3.3.3-1
+80
+20
+Lucida console
+chere -i -t mintty
+
+contraste
+21
+55
+
+f.lux
+4050k
+3650k
+
+powercfg /hibernate off
 
 ```
 Package​Resource​Viewer
@@ -34,7 +50,9 @@ Package​Resource​Viewer
 	"update_check": false,
 	"word_wrap": false
 }
+```
 
+```
 Flatland Dark.sublime-theme
 
 {
@@ -44,7 +62,9 @@ Flatland Dark.sublime-theme
     "font.bold" : false,
     "font.size" : 13
 }
+```
 
+```
 File History ( key bindings )
 
 [
@@ -58,13 +78,17 @@ File History ( key bindings )
      "context": [{ "key": "expand_region_soft_undo" }]
    }
 ]
+```
 
+```
 File History (Package Settings)
 
 {
     "show_file_preview": false
 }
+```
 
+```
 Alignment
 HTML-CSS-JS Prettify
 Sort Lines by Selection
@@ -76,7 +100,9 @@ JSON Reindent
 VSCodeColumnSelection
 Theme - Flatland
 ExpandRegion
+```
 
+```
 PackageRessourceView > Extract > Javascript > Snippets
 
 	for-()-{}-(faster).sublime-snippet
@@ -91,17 +117,23 @@ PackageRessourceView > Extract > HTML > html_completions
 
 	('style\tTag', 'style type=\"${1:text/css}\">$0</style>'),
 	('style\tTag', 'style>$0</style>'),
+```
 
+```
 Color Highlighter : Tools > Color Highlighter
-
+```
+```
 {$$${newline}}*25
 ```
 
 [Restore Old Classic Search Box in Windows 10 File Explorer](https://www.askvg.com/tip-restore-old-classic-search-box-in-windows-10-file-explorer-this-pc)
 
+[GitHub - zerodytrash-Simple-YouTube-Age-Restriction-Bypass- A simple userscript to bypass YouTube's age verification and watc](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)
+
 [How to remove Microsoft Edge from Windows 10 - Windows Central](https://www.windowscentral.com/how-remove-microsoft-edge-windows-10)
 
 [How To Remove Realtek HD Audio Manager from Taskbar – PC Focused](https://pcfocused.com/remove-realtek-hd-audio-manager-from-taskbar/)
 
-[GitHub - zerodytrash-Simple-YouTube-Age-Restriction-Bypass- A simple userscript to bypass YouTube's age verification and watc](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass)
+[How to replace PowerShell with Command Prompt on File Explorer's Context Menu in Windows 10](https://mspoweruser.com/how-to-replace-powershell-with-command-prompt-on-file-explorers-context-menu-in-windows-10/)
 
+[Restaurer la Visionneuse de photos Windows sur Windows 11 et 10 ](https://lecrabeinfo.net/restaurer-la-visionneuse-de-photos-windows-sur-windows-11-et-10.html#:~:text=Rendez%2Dvous%20dans%20un%20dossier,xxx%20puis%20cliquez%20sur%20OK.)
