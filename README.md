@@ -3,11 +3,11 @@
 cmd
 110
 25
-font 18 consolas
 
 powershell
 100
 20
+font 18 consolas
 
 powershell
 130
